@@ -1,0 +1,56 @@
+/* estilo geral */
+body{
+    font-family: Arial, san-serif;
+    margin: 0;
+    padding: 5vh;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+}
+/* titulos */
+h1 {
+    font-size: 2em
+}
+
+
+img{
+    width: 80%, padding: 2em
+
+ height: auto
+
+padding: 10px 20px, font-size: 1em
+
+margin: 1em
+}
+
+/* paragrafo de descrição */
+.descrição {
+    width: 80%;
+    padding: 2em;
+    margin: 0 auto 2em auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+/* imagem */
+.foto {
+    width: 50vw;
+    height: auto;
+    margin-bottom:2em;
+    border-radius: 10px;
+}
+/* botão */
+.botão-inscrição {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #007BFF;
+    color: white
+    border: none;
+    border-radius: 8px;
+    cursor: pointer
+
+}
+
+.botão-inscrição:hover {
+    background-color: #0056b3;
+}
